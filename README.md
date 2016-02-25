@@ -1,1 +1,3 @@
 # Test
+repository bare mins
+
